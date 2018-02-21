@@ -1,10 +1,9 @@
 # Operating-System-Work
-
 Repository containing source code for Operating System projects using UNIX based Operating Systems
 
-#Setup
-Command Lind: Run make in each folder
+# Setup
+Command Line: Run make in each folder
 Further instuctions, if any, are located within each 
 
-#License 
+# License 
 All source code in this repository is released under the MIT license. See license for more details.
