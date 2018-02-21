@@ -2,7 +2,7 @@
 Repository containing source code for Operating System projects using UNIX based Operating Systems
 
 # Setup
-Command Line: Run make in each folder
+Command Line: Run make in each folder.\n
 Further instuctions, if any, are located within each 
 
 # License 
