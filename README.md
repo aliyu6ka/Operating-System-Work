@@ -1,5 +1,5 @@
 # Operating-System-Work
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/amaurilopez90/Operating-Systems-Work/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/amaurilopez90/Operating-System-Work/master/LICENSE)
 
 Repository containing source code for Operating System projects using UNIX based Operating Systems
 
