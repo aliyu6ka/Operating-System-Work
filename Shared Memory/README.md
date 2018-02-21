@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 2
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/amaurilopez90/Operating-System-Work/master/LICENSE)
 
