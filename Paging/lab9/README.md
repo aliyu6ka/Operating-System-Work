@@ -8,11 +8,7 @@ by each algorithm. Implement each replacement algorithm so that the number of pa
 
 The program should read **input.txt** from the same directory and generate **output.txt** in the same directory. The formats are shown below:
 
-  input.txt                                  output.txt
-  ---------                                 ------------  
-  3 <- number of page frames                FIFO: 5     |
-  1 2 3 4 1 3 <- page reference string      LRU: 5      | } number of page faults
-                                            Optimal: 4  |
+  ![alt text](https://imgur.com/xDZx9Jr)
                                             
 # How to Run
 
