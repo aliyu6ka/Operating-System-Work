@@ -8,7 +8,7 @@ by each algorithm. Implement each replacement algorithm so that the number of pa
 
 The program should read **input.txt** from the same directory and generate **output.txt** in the same directory. The formats are shown below:
 
-  ![alt text](https://imgur.com/xDZx9Jr)
+  ![input and output](..master/Paging/lab9/OSlab9.JPG)
                                             
 # How to Run
 
