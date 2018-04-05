@@ -8,13 +8,13 @@ by each algorithm. Implement each replacement algorithm so that the number of pa
 
 The program should read **input.txt** from the same directory and generate **output.txt** in the same directory. The formats are shown below:
 
-  ![input and output](..master/Paging/lab9/OSlab9.JPG)
+  ![input and output](master/Operating-System-Work/Paging/lab9/OSlab9.JPG)
                                             
 # How to Run
 
 #### Linux:
 
 1. Clone the source: `https://github.com/amaurilopez90/Operating-System-Work.git`
-2. Go into the directory: `cd Operating-System-Work/Multithreading/Lab3`
+2. Go into the directory: `cd Operating-System-Work/Multithreading/Lab9`
 3. Compile: `make`
-4. Run: `./lab03_ex<num>` 
+4. Run: `./lab09_ex1` 
