@@ -22,7 +22,7 @@ be able to develop your application so that it can complete these tasks as balan
 4. Your program must provide a measure (e.g., total elasped time) at the end to see the difference between schedulers. It is possible that there will be no significant differences. 
 5. Support a priority setting for your program. The user should be able to set  the priority of one task higher or lower than the other. For example, provide a command line argument as follows: **./main multi priority 1 low** will set the priority of task 1 lower than the others, and because of this, the user might see that taks 1 completed after the other three were finished - **high** option for other case. 
 
-#Acknowledgement of Data:
+# Acknowledgement of Data:
 analcatdata - A collection of data sets used in the book "Analyzing Categorical Data," by Jeffrey S. Simonoff, Springer-Verlag, New York, 2003. The submission consists of a zip file containing two version of each of 84 datasets. Each file is given in comma-delimited ASCII (.csv) form, and Microsoft Excel (.xls) form. Further details concerning the book, including information on statistical software are available at the website: http://www.stern.nyu.edu/~jsimonof/AnalCatData
 
 # How to Run
